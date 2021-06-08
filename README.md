@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Apostolos-Valiakos
-- 👀 I’m interested in Neural Networks and Machine/Deep Learning, State of the Art algorithms using Python and Pytorch Ι also enjoy coding in Java
+- 👀 I’m interested in Neural Networks and Machine/Deep Learning, State of the Art algorithms using Python and Pytorch Ι also enjoy coding in Java. Lastly I learn about fullstack development using JavaScript and React for the frontend and Python in the Backend
 - 🌱 I’m currently learning about full stack development and Convolutional Neural Networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me valiakosapostolos@hotmail.com
